@@ -1,2 +1,2 @@
-# prototype-fill-nodata-holes
+# prototype-detect-and-fill-nodata-holes
 Prototype: detect and fill nodata holes in a raster
